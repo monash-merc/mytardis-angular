@@ -1,0 +1,27 @@
+{
+  "name": "mytardis-data-module",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "angular-mocks": "^1.4.3",
+    "closure-compiler-stream": "^0.1.15",
+    "gulp-babel": "^5.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jsbeautifier": "^1.0.1",
+    "gulp-remove-use-strict": "0.0.2",
+    "gulp-rm": "^1.0.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-wrap": "^0.11.0",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.3",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.0",
+    "phantomjs": "^1.9.17",
+    "request": "^2.60.0"
+  }
+}
